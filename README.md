@@ -1,2 +1,2 @@
 # Techplement
-## AWS Cloud Intern
+## Cloud Intern (AWS)
