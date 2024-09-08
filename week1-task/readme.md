@@ -53,7 +53,7 @@ This repository contains the work for the Week 1 Task of the Cloud(AWS) module. 
 - `monolithic/`: Contains scripts and configurations for the monolithic architecture deployment.
 - `microservices/`: Contains scripts and configurations for the microservices architecture deployment.
 - `screenshots/`: Includes screenshots of AWS services and configurations.
-- `report.pdf`: Detailed report of the task completion with resources and screenshots.
+- `Task_01_Report.pdf`: Detailed report of the task completion with resources and screenshots.
 
 ## Report
 The report detailing the completion of the task, including resources and screenshots, is included as `report.pdf`.
